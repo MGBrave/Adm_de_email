@@ -1,6 +1,6 @@
 
 
-# 📧Aplicativo de administração de e-mail
+# 📧Aplicativo de administração de e-mail <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/>
 
 Projeto Java básico focado na aplicação de design orientado a objetos em uma aplicação do mundo real.
 
